@@ -50,7 +50,7 @@
 <ul type="circle">
     <li>
         Telegram: <a href="https://t.me/Mr_GORB" target="_blank">
-      <img src="https://static.insales-cdn.com/files/1/526/34144782/original/телега_1711971983493-1711971987606.png" height="20"/></a>
+      <img src="[https://static.insales-cdn.com/files/1/526/34144782/original/телега_1711971983493-1711971987606.png](https://avatars.mds.yandex.net/i?id=968b5a1ddc54041589daa1fc84054041f19d43bc-4884750-images-thumbs&n=13)" height="20"/></a>
     </li>
     <li>
         VK: <a href="https://vk.com/mr__gorb" target="_blank">mr__gorb</a>
