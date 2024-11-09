@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет, я  <span> Даниил </span> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+  <p>!!!<b>Спойлер</b>: Хочу быть в Frontend разработке!!! <img src="https://avatars.mds.yandex.net/i?id=b875c703710d9140cb405f2738d6eaaf04bc1ec1-12753080-images-thumbs&n=13" height="15"/></p>
 <h2> Разработка — это моя страсть! <img src="https://i.gifer.com/W0qd.gif" height="20"/> </h2>
 
 <p>Разработка расширяет границы возможностей и позволяет создавать что-то значимое. Мне нравится возможность создавать полезные и уникальные вещи, которые могут помочь людям в их повседневной жизни. 
